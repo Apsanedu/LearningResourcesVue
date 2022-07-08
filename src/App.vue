@@ -1,7 +1,7 @@
 <template>
   <the-header title="Remember Remember"></the-header>
-  <stored-resources :resources="storedResources">
-  </stored-resources>
+<!--  <stored-resources :resources="storedResources">-->
+<!--  </stored-resources>-->
   <the-resources></the-resources>
 </template>
 
